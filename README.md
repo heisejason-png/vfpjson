@@ -53,5 +53,5 @@ cJson =  json_encode(oSmtp)
 ? json_encode(_screen)
 
 ```
-Created by Jason Scott Heise
-Owned by Elin musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
